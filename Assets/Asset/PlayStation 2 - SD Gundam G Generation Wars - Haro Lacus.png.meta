@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 22dad4b46988ef44292cd87ca3a0e248
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 792
+        width: 223
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01453e0a080b944692553d4e47252f3
+      internalID: -824459738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 869
+        width: 149
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1291798e609b4e4cbda224b3fd8da4d
+      internalID: -207445314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 756
+        width: 472
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a742d58c870dcf4b928b27a9d74d24b
+      internalID: 157926835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 744
+        width: 553
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efaf75b7cf6f884c886296648b4e948
+      internalID: 84531774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 773
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ae725e443bfe43b5427d441c8dbcb
+      internalID: -1342352849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 783
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0507af079655e4a8a559e1ee649392
+      internalID: 1073797373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 530
+        width: 482
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602506b5df0c41348b7c6a5782033231
+      internalID: -1996765237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_7
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 673
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8540749809cfcb4d89d4ffcd822460d
+      internalID: 776696915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_8
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 684
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a331c18f50cd4bad9f28ad6c182f6
+      internalID: 944291987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_9
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 667
+        width: 208
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54640d43478ee1c4e9d2464b839240cc
+      internalID: 1445203099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_10
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 660
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668a573052ebcd4a88be69eab9bc76d
+      internalID: 79423922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 354
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4a832d065440540bd3665ea63802eb
+      internalID: 1359113365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 436
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2816544ddec04292bb611ae127f94
+      internalID: -139784673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 252
+        width: 512
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ef8dc1813c52e419640f9b0022203b
+      internalID: -1182329879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 113
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721a657590a23464d8d0bb7e5bfa02fb
+      internalID: 1345351598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 446
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a4975b0a7520c4eb5bef22cb4fef6b
+      internalID: -677055956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_15: -677055956
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_11: 1359113365
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_10: 79423922
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_12: -139784673
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_7: 776696915
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_3: 84531774
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_5: 1073797373
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_14: 1345351598
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_4: -1342352849
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_9: 1445203099
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_2: 157926835
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_6: -1996765237
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_8: 944291987
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_0: -824459738
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_1: -207445314
+      PlayStation 2 - SD Gundam G Generation Wars - Haro Lacus_13: -1182329879
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

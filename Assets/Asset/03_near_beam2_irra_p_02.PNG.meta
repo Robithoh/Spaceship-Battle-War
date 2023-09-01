@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: 66e77838efad03c4ca6dc1e0cbcc3ccd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1025
+        width: 248
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a958d984d02841aaaf6b40dcfa814
+      internalID: 948451925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1810
+        width: 203
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b45a6ee86fe54d96366fbcdcc2b28
+      internalID: -1062860167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1561
+        width: 421
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3599686c16079548a326514158b7c94
+      internalID: -932112055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_3
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1578
+        width: 127
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f251e5a86c742514190f0f8b1a744075
+      internalID: -879546223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_4
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1565
+        width: 129
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b6ce42e4c092448898566a17523ff
+      internalID: -528388365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_5
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1595
+        width: 88
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1c06ae98f514e46b78696659a5d1a2
+      internalID: -1543760871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_6
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1579
+        width: 85
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ce59643e2a2e4e8be21197a147138
+      internalID: -50982341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_7
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1833
+        width: 85
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f1063e66a5c543b8e95d75a850b6f
+      internalID: -1262447521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_8
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1588
+        width: 68
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0807d4fbbd3d06469d605c95b611358
+      internalID: -102631933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1586
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b510f83d8b866b409e72204d2ed72d8
+      internalID: 653924545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_10
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1557
+        width: 92
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3afcf5396bc6a4794372bcde846e55
+      internalID: -1666294363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1043
+        width: 97
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af433bbcabb54449b663386052492b0
+      internalID: 1858354475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1084
+        width: 73
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b5c43a83b7f9c4ca8af8e0c83b8df5
+      internalID: 986213347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dfa612d2ccd4f469c6d6abc813ff83
+      internalID: 1273650715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1066
+        width: 112
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94638ba4b4342dc4388ce814b2817380
+      internalID: 1916237322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_15
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1083
+        width: 126
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b5958ec953844c8bb6f30b2e443dd
+      internalID: -2127836011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_16
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1026
+        width: 507
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87fb6518fb342e43b3268cb268a39b5
+      internalID: 8558575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 31
+        width: 104
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c0b2f7498532743ab62366c16d5502
+      internalID: -961567389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_18
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 265
+        width: 97
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8bff1fd8985c4fb45859ce29246ad
+      internalID: 1538661854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 325
+        width: 183
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228280abb00166468561823cfab34af
+      internalID: 1297340577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_20
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 776
+        width: 78
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97afa092101b4614996cc17185d1a6e6
+      internalID: -1340005199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_21
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 385
+        width: 206
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b97456158710b4ab263bc58d129c84
+      internalID: -439035212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_22
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 670
+        width: 108
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad7ce35fa5a75a43aa31bcb7dcc0db0
+      internalID: -217300790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_23
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 762
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e7830928e244440a42a13f299f477c
+      internalID: -1829200973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 100
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53539ce4b8d22fc43bc92f1184104765
+      internalID: -1715827707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 327
+        width: 43
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b329cd9326f9f4b8ec2ec9c4698aad
+      internalID: -87246976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_26
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 58
+        width: 146
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae363754108b734db2cda667ae341c3
+      internalID: 891825814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_27
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 548
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d05cbbf375274147acef7a855d19931
+      internalID: 173654569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 207
+        width: 84
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f0d7dc7c418574ca7aa0b360c06869
+      internalID: -1461714260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_29
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 220
+        width: 59
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd71b8fc422b124894058571d65184d
+      internalID: 1977384057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_30
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 39
+        width: 144
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4539a816be67c44385f81ab68dd1518
+      internalID: -742399775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_31
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 346
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0624b3342ede8428b4a297d3484df0
+      internalID: -1520279689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 111
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809bb37298ffa744c84dee106329b11d
+      internalID: 27539035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 33
+        width: 84
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bcf5d08d4710345ade65e0e41d5dbc
+      internalID: 1253956041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_34
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 41
+        width: 79
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a346101c97c755440ad3e1fac4f03ede
+      internalID: -1340919121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_35
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 276
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02695bd34efbc18498a9b9731a2a209f
+      internalID: -2035151368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_36
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 63
+        width: 92
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7706d9fe84a341ad0e988d8b850e5
+      internalID: -1860719378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_37
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 116
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a943d2d575f5c842ba3a4405ce98416
+      internalID: -1121057224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_38
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 37
+        width: 108
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95514a3844d043b4a836f19730498560
+      internalID: -1697263848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_39
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 161
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c529c195019274a9c8b256de6a63ed
+      internalID: -1597933206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_40
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 43
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1694f7a2db98e5544ae551cef98243db
+      internalID: 842859067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_41
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 84
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d58eda988aafc47aebce9eea5b4890
+      internalID: -1225062017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_42
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 41
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9b8898fa208f0479ac7224b27715a9
+      internalID: -455943588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_43
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 75
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed03b64bfb3f247a02511098a34aa2
+      internalID: 1882129746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_near_beam2_irra_p_02_44
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 72
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb33e565b6ec1d746b1ac43ca8310760
+      internalID: 1615387171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      03_near_beam2_irra_p_02_2: -932112055
+      03_near_beam2_irra_p_02_26: 891825814
+      03_near_beam2_irra_p_02_31: -1520279689
+      03_near_beam2_irra_p_02_8: -102631933
+      03_near_beam2_irra_p_02_11: 1858354475
+      03_near_beam2_irra_p_02_10: -1666294363
+      03_near_beam2_irra_p_02_3: -879546223
+      03_near_beam2_irra_p_02_32: 27539035
+      03_near_beam2_irra_p_02_41: -1225062017
+      03_near_beam2_irra_p_02_7: -1262447521
+      03_near_beam2_irra_p_02_15: -2127836011
+      03_near_beam2_irra_p_02_42: -455943588
+      03_near_beam2_irra_p_02_27: 173654569
+      03_near_beam2_irra_p_02_16: 8558575
+      03_near_beam2_irra_p_02_20: -1340005199
+      03_near_beam2_irra_p_02_23: -1829200973
+      03_near_beam2_irra_p_02_17: -961567389
+      03_near_beam2_irra_p_02_19: 1297340577
+      03_near_beam2_irra_p_02_1: -1062860167
+      03_near_beam2_irra_p_02_14: 1916237322
+      03_near_beam2_irra_p_02_29: 1977384057
+      03_near_beam2_irra_p_02_33: 1253956041
+      03_near_beam2_irra_p_02_34: -1340919121
+      03_near_beam2_irra_p_02_21: -439035212
+      03_near_beam2_irra_p_02_22: -217300790
+      03_near_beam2_irra_p_02_5: -1543760871
+      03_near_beam2_irra_p_02_24: -1715827707
+      03_near_beam2_irra_p_02_40: 842859067
+      03_near_beam2_irra_p_02_38: -1697263848
+      03_near_beam2_irra_p_02_25: -87246976
+      03_near_beam2_irra_p_02_4: -528388365
+      03_near_beam2_irra_p_02_12: 986213347
+      03_near_beam2_irra_p_02_35: -2035151368
+      03_near_beam2_irra_p_02_0: 948451925
+      03_near_beam2_irra_p_02_43: 1882129746
+      03_near_beam2_irra_p_02_37: -1121057224
+      03_near_beam2_irra_p_02_30: -742399775
+      03_near_beam2_irra_p_02_13: 1273650715
+      03_near_beam2_irra_p_02_6: -50982341
+      03_near_beam2_irra_p_02_39: -1597933206
+      03_near_beam2_irra_p_02_44: 1615387171
+      03_near_beam2_irra_p_02_28: -1461714260
+      03_near_beam2_irra_p_02_18: 1538661854
+      03_near_beam2_irra_p_02_36: -1860719378
+      03_near_beam2_irra_p_02_9: 653924545
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
